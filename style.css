@@ -1,10 +1,17 @@
-body{
+body a{
 text-decoration:none;
 
+}
+body li{
+    margin: 0%;
+    height: 50px;
+    background-color: cyan;
+    
 }
 body li a{
     
     text-decoration:none;
+
 
 
 }
